@@ -63,4 +63,4 @@
 
 ![](/5.Docs/images/1.jpg)
 
-![](\5.Docs\images\2.jpg)
+![](/5.Docs/images/2.jpg)
